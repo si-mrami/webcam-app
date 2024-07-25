@@ -1,0 +1,13 @@
+<div class="p-4 flex justify-center items-center h-[100vh]">
+  <div class="flex items-center justify-center flex-col">
+    <webcam
+      [trigger]="triggerObservable"
+      [videoOptions]="videoOptions"
+      (imageCapture)="handleImage($event)"
+    ></webcam>
+    <video id="live-video" autoplay playsinline></video>
+    <button mat-icon-button (click)="triggerSnapshot()">
+      <mat-icon>camera</mat-icon>
+    </button>
+  </div>
+</div>

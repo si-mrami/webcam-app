@@ -1,0 +1,85 @@
+{
+  "hash": "f25b2c66",
+  "configHash": "600f39b1",
+  "lockfileHash": "c9d968bf",
+  "browserHash": "16777d9f",
+  "optimized": {
+    "@angular/core": {
+      "src": "../../../../../node_modules/@angular/core/fesm2022/core.mjs",
+      "file": "@angular_core.js",
+      "fileHash": "46ff6db5",
+      "needsInterop": false
+    },
+    "@angular/material/button": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/button.mjs",
+      "file": "@angular_material_button.js",
+      "fileHash": "e897043f",
+      "needsInterop": false
+    },
+    "@angular/material/icon": {
+      "src": "../../../../../node_modules/@angular/material/fesm2022/icon.mjs",
+      "file": "@angular_material_icon.js",
+      "fileHash": "23fa947a",
+      "needsInterop": false
+    },
+    "@angular/platform-browser": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/platform-browser.mjs",
+      "file": "@angular_platform-browser.js",
+      "fileHash": "c52bfb0f",
+      "needsInterop": false
+    },
+    "@angular/platform-browser/animations/async": {
+      "src": "../../../../../node_modules/@angular/platform-browser/fesm2022/animations/async.mjs",
+      "file": "@angular_platform-browser_animations_async.js",
+      "fileHash": "b5a9f7ff",
+      "needsInterop": false
+    },
+    "@angular/router": {
+      "src": "../../../../../node_modules/@angular/router/fesm2022/router.mjs",
+      "file": "@angular_router.js",
+      "fileHash": "c619c8a9",
+      "needsInterop": false
+    },
+    "ngx-webcam": {
+      "src": "../../../../../node_modules/ngx-webcam/fesm2020/ngx-webcam.mjs",
+      "file": "ngx-webcam.js",
+      "fileHash": "365e72ee",
+      "needsInterop": false
+    },
+    "rxjs": {
+      "src": "../../../../../node_modules/rxjs/dist/esm5/index.js",
+      "file": "rxjs.js",
+      "fileHash": "f1dc47ea",
+      "needsInterop": false
+    },
+    "socket.io-client": {
+      "src": "../../../../../node_modules/socket.io-client/build/esm/index.js",
+      "file": "socket__io-client.js",
+      "fileHash": "1a3e87e6",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "browser-MMN5RIK3": {
+      "file": "browser-MMN5RIK3.js"
+    },
+    "chunk-3G4ISJTI": {
+      "file": "chunk-3G4ISJTI.js"
+    },
+    "chunk-HQ7HW2BI": {
+      "file": "chunk-HQ7HW2BI.js"
+    },
+    "chunk-IAW7IAL6": {
+      "file": "chunk-IAW7IAL6.js"
+    },
+    "chunk-65VOH3SP": {
+      "file": "chunk-65VOH3SP.js"
+    },
+    "chunk-4J25ECOH": {
+      "file": "chunk-4J25ECOH.js"
+    },
+    "chunk-GLLL6ZVE": {
+      "file": "chunk-GLLL6ZVE.js"
+    }
+  }
+}
